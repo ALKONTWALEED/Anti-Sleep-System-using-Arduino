@@ -16,8 +16,5 @@ Buzzer: Emits a loud alert sound to awaken the driver when drowsiness is detecte
 Jumper Wires: Used to connect all electronic components on the breadboard.
 Power Supply: External or battery-powered, enabling portable operation of the system.
 
-# Diagram
-
-
 # Author
 ** Waleed Manea Saleh **
