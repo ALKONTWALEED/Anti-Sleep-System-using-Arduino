@@ -17,4 +17,4 @@ Jumper Wires: Used to connect all electronic components on the breadboard.
 Power Supply: External or battery-powered, enabling portable operation of the system.
 
 # Author
-* Waleed Manea Saleh *
+ Waleed Manea Saleh 
